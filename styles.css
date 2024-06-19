@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:200px;
+	text-align:center
+}
